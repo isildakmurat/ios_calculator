@@ -7,4 +7,5 @@
     https://isildakmurat.github.io/ios_calculator/
 
 # Ex:
-    <img src="ios_calculator.png" alt="ios calculator">
+
+    <img src="calculator.png" alt="ios calculator">
