@@ -8,4 +8,4 @@
 
 # Ex:
 
-    <img src="/img/calculator.png" alt="calculator photo">
+    <img src="/img/calculator.jpg" alt="calculator photo">
